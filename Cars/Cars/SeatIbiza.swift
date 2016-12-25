@@ -17,11 +17,13 @@ class SeatIbiza{
     var doors = 5
     
     func speeUp() {
-        
+        print("I'm speeding up.....")
+
     }
     
     func start(){
-        
+        print("I'm starting the engine.....")
+
     }
     
 }
